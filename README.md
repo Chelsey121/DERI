@@ -8,3 +8,4 @@
 
 # Favorites
 
+.vimrc
